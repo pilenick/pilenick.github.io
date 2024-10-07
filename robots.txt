@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pilenick.github.io/sitemap.html.gz
+Sitemap: https://pilenick.github.io/app/sitemap.html.gz
+Sitemap: https://pilenick.github.io/assets/sitemap.html.gz
+Sitemap: https://pilenick.github.io/css/sitemap.html.gz
+Sitemap: https://pilenick.github.io/data/sitemap.html.gz
+Sitemap: https://pilenick.github.io/includes/sitemap.html.gz
+Sitemap: https://pilenick.github.io/item/sitemap.html.gz
+Sitemap: https://pilenick.github.io/src/sitemap.html.gz
